@@ -46,14 +46,15 @@
 </item>
 
 
-<item>
-<title>[B]6 Temporada[/B]</title>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/arrow-6temporada</externallink>
+<layouttype>thumbnail</layouttype>
+<channels></channels>
+<channel>
+<name>Todos seriados</name>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BNzU3NjAwMjctZTk4YS00OTUwLWJmYmUtMmY0ZDY4ZmU3MDQxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
-<info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
-<genre>Crime, Drama, Suspense, DC Comics</genre>
-</item>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/todos</externallink>
+<fanart>https://sg.fiverrcdn.com/photos/67396656/original/b128de48541bb034a8897af3a5a626b11722cde8.jpg?1480094047</fanart>
+<info>Plataforma para seriados.</info>
+</channel>
 
 
 <item>
