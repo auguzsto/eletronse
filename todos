@@ -7,3 +7,14 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BNzEzNjYxOTE0MF5BMl5BanBnXkFtZTgwNjkxNzQ0MzE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg</fanart>
 <info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
 </channel>
+
+<layouttype>thumbnail</layouttype>
+<channels></channels>
+<channel>
+<name>Arrow</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU5MjU5NjUyOV5BMl5BanBnXkFtZTgwMDY1ODIyNjM@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/sonsofanarchy</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzU3NjAwMjctZTk4YS00OTUwLWJmYmUtMmY0ZDY4ZmU3MDQxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
+<info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
+</channel>
+
