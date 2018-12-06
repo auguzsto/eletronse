@@ -1,4 +1,4 @@
-<layouttype>thumbnail</layouttype>
+
 <item>
 <title>Episódio 1: [I]Queda[/I]</title>
 <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e&dn=</link>
@@ -7,11 +7,4 @@
 <info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
 <genre>Crime, Drama, Suspense, DC Comics</genre>
 </item>
-<channels></channels>
-<channel>
-<name>Todos seriados</name>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/todos</externallink>
-<fanart>https://sg.fiverrcdn.com/photos/67396656/original/b128de48541bb034a8897af3a5a626b11722cde8.jpg?1480094047</fanart>
-<info>Plataforma para seriados.</info>
-</channel>
+
