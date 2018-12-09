@@ -9,8 +9,6 @@
 <genre>Crime, Drama, Suspense</genre>
 </channel>
 
-<layouttype>thumbnail</layouttype>
-<channels></channels>
 <channel>
 <name>Arrow</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU5MjU5NjUyOV5BMl5BanBnXkFtZTgwMDY1ODIyNjM@._V1_SY1000_SX800_AL_.jpg</thumbnail>
@@ -20,8 +18,6 @@
 <genre>Crime, Drama, Suspense, DC Comics</genre>
 </channel>
 
-<layouttype>thumbnail</layouttype>
-<channels></channels>
 <channel>
 <name>The Flash</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjI1MDAwNDM4OV5BMl5BanBnXkFtZTgwNjUwNDIxNjM@._V1_SY1000_SX800_AL_.jpg</thumbnail>
