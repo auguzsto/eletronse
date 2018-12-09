@@ -1,6 +1,16 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Trailer[/B]</name>
+<externallink>https://www.youtube.com/watch?v=hTv13EjlLNg</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
+<fanarthttps://m.media-amazon.com/images/M/MV5BY2M0ZDZlZjgtZGZjOC00MzUzLTgwMGUtMzY0NWUxNmFiNTUyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
+<info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
+<genre>Crime, Drama, Suspense, DC Comics</genre>
+<year>2013</year>
+</channel>
+
+<channel>
 <name>1 Temporada</name>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/arrow-1temporada</externallink>
