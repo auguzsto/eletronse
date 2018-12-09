@@ -31,3 +31,12 @@
 <genre>Crime, Drama, Suspense, DC Comics</genre>
 </channel>
 
+<channel>
+<name>How I Met Your Mother</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTA5MzAzNTcyNjZeQTJeQWpwZ15BbWU3MDUyMzE1MTk@._V1_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-1temporada</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BY2M0ZDZlZjgtZGZjOC00MzUzLTgwMGUtMzY0NWUxNmFiNTUyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
+<info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
+<genre>Crime, Drama, Suspense, DC Comics</genre>
+</channel>
+
