@@ -61,3 +61,12 @@
 <info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
 <genre>Crime, Drama, Suspense</genre>
 </item>
+
+<item>
+<title>[B]Correção[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:427A9DC17011852B364E4E6B69E625CD1FBA33A0&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
+<info>Correção dos aúdios dos episódios 4, 5, 6, 7, 9. </info>
+<genre>Correçã aúdio da 7 Temporada</genre>
+</item>
