@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WBb3fojgW0Q</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
+<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+<genre>Comédia</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:37fd3bd2c65dc070b4909a92e0d6c719f70a4d9c&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
+<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+<genre>Comédia</genre>
+</item>
