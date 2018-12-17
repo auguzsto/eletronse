@@ -9,6 +9,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>2 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-2temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -17,7 +18,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
-
+<channel>
 <name>3 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-3temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -26,6 +27,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>4 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-4temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -34,6 +36,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>5 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-5temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -42,6 +45,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>6 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-6temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -50,6 +54,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>7 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-7temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -58,6 +63,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>8 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-8temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
@@ -66,6 +72,7 @@
 <genre>Comédia, Romance</genre>
 </channel>
 
+<channel>
 <name>9 Temporada</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/himym-9temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
