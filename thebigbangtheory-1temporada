@@ -1,8 +1,8 @@
 <?xml version="4.0" encoding="utf-8" standalone="yes"?>
 <item>
 <title>[B]Trailer[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=WBb3fojgW0Q</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
+<link></link>
+<thumbnail>https:/raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
 <info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
 <genre>Comédia</genre>
@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]Assistir[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6d4a849dee5a9448f13bc1834281b83de9f21727&dn=</link>
+<link>http://212.24.103.174/filmes/ilha-do-medo-2010/play.mkv</link>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
 <info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
