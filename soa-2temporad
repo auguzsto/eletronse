@@ -1,16 +1,9 @@
 <?xml version="4.0" encoding="utf-8" standalone="yes"?>
-<item>
-<title>[B]Trailer[/B]</title>
-<link></link>
-<thumbnail>https:/raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
-<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
-<genre>Comédia</genre>
-</item>
 
 <item>
-<title>[B]Assistir[/B]</title>
-<link>https://eletron.sfo2.cdn.digitaloceanspaces.com/filmes/ilha-do-medo/play.mkv</link>
+<title>[B]Episódio 01[/B]</title>
+<link>https://eletron.sfo2.cdn.digitaloceanspaces.com/seriados/Sons-of-Anarchy/2-temporada/01.mp4</link>
+<subtitleslanguage>https://eletron.sfo2.cdn.digitaloceanspaces.com/filmes/ilha-do-medo/play.srt</subtitleslanguage>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
 <info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
