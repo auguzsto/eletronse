@@ -1,72 +1,12 @@
-<?xml version="4.0" encoding="utf-8" standalone="yes"?>
-<item>
-<title>[B]1 Temporada[/B]</title>
-<link>https://github.com/auguzsto/eletronse/blob/master/soa-2temporad</link>
+<layouttype>thumbnail</layouttype>
+<channels></channels>
+
+<channel>
+<name>2 Temporada</name>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<externallink>https://github.com/auguzsto/eletronse/blob/master/soa-2temporad</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
 <info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
 <genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]2 Temporada[/B]</title>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/soa-2temporad</externallink>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]3 Temporada[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:08746E208530765CA63784136F0AED6DB3E30159&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]4 Temporada[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:69242D2B9BB1EFBBD7901F6A57247CE30F6BF4F5&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]5 Temporada[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:776F69CBC9B47901488E7260A90929BCBC21BDDB&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]6 Temporada[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B93083F3C10A74C7235860AEEAD9E88DFE8E28DD&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]7 Temporada[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:68927D8F6B4736DA0716C47C022F204725B2027D&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
-<genre>Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>[B]Correção[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:427A9DC17011852B364E4E6B69E625CD1FBA33A0&dn=</link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
-<info>Correção dos aúdios dos episódios 4, 5, 6, 7, 9. </info>
-<genre>Correçã aúdio da 7 Temporada</genre>
-</item>
+</channel>
