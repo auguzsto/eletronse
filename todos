@@ -10,37 +10,10 @@
 </channel>
 
 <channel>
-<name>Arrow</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU5MjU5NjUyOV5BMl5BanBnXkFtZTgwMDY1ODIyNjM@._V1_SY1000_SX800_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/arrow</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BNzU3NjAwMjctZTk4YS00OTUwLWJmYmUtMmY0ZDY4ZmU3MDQxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
-<info>Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.</info>
-<genre>Crime, Drama, Suspense, DC Comics</genre>
-</channel>
-
-<channel>
-<name>The Flash</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI1MDAwNDM4OV5BMl5BanBnXkFtZTgwNjUwNDIxNjM@._V1_SY1000_SX800_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/flash</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BMGUzNTlkYWUtMGJlMS00MzVlLTg3NzMtNDFlMjk5NWFiYzVjXkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_.jpg</fanart>
-<info>Acompanhe as aventuras do homem mais veloz do planeta, o cientista da Central City Police Barry Allen, que após um trágico acidente adquire o poder da velocidade..</info>
-<genre>Crime, Drama, Suspense, DC Comics</genre>
-</channel>
-
-<channel>
 <name>How I Met Your Mother</name>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/himym.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/howimetyourmother</externallink>
 <fanart>https://stmed.net/sites/default/files/how-i-met-your-mother-wallpapers-31594-495411.jpg</fanart>
 <info>How I Met Your Mother é uma comédia acerca de Ted e como ele se apaixonou. Tudo começa quando o melhor amigo do Ted, Marshall lhe dá a notícia que vai pedir a namorada Lily em casamento. Nesse momento o Ted percebe que é melhor começar a mexer-se se quiser ter chances de encontrar o verdadeiro amor. A ajudá-lo na sua demanda está o Barney, um amigo com intermináveis, e às vezes ultrajantes, opiniões com uma tendência para fatos e uma infalível maneira de conhecer mulheres. Quando o Ted conhece a Robin, está certo de que é amor à primeira vista, mas o destino pode reservar-lhe mais alguma coisa.</info>
 <genre>Comédia, Romance</genre>
-</channel>
-
-<channel>
-<name>The Big Bang Theory</name>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/thebigbangtheory.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/thebigbangtheory</externallink>
-<fanart>https://raw.githubusercontent.com/auguzsto/imagens/master/the_big_bang_theory-2560x1440.jpg</fanart>
-<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
-<genre>Comédia</genre>
 </channel>
