@@ -2,9 +2,22 @@
 <channels></channels>
 
 <channel>
+<name>1 Temporada</name>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/soa-1temporada</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
+<info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
+<genre>Crime, Drama, Suspense</genre>
+</channel>
+
+<layouttype>thumbnail</layouttype>
+<channels></channels>
+
+<channel>
 <name>2 Temporada</name>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/soa-2temporad</externallink>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/soa-2temporada</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://www.pixelstalk.net/wp-content/uploads/images1/Sons-Of-Anarchy-Motorcycles-Wallpapers.jpg</fanart>
 <info>Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.</info>
