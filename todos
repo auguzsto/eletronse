@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>The Good Doctor: O Bom Doutor</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/thegooddoctor</externallink>
+<fanart></fanart>
+<info>As aventuras de Gustavo (Gabriel Godoy), Pedrinho (Raphael Logam), Pedro (Gabriel Louchard) e Alexandre (Fábio Porchat), quatro amigos de longa data que se sentem perdidos a medida que o mundo contemporâneo se reinventa e as mulheres se empoderam. Eles entendem que foram criados de forma machista e querem modificar seu comportamento, mas acabam encontrando dificuldades no meio do processo.</info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>Homens?</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujLRxAyB6PLPiwrbvjCULA6Qv5k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletronse/master/homens</externallink>
