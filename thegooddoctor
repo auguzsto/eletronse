@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]1 Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CC3E757EF49CDF8196CFB2E9A2654C5374889DC&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info> - Assistir</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]2 Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8FFF126BDB3C15EB6C47C013A163768800FB907&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info> - Assistir</info>
+<genre></genre>
+</item>
